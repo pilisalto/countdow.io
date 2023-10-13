@@ -11,6 +11,10 @@
     filter: drop-shadow(10px 10px 4px #0e0e0e);;
 }
 
+.logo:hover{
+    filter: none;
+}
+
 .container {
     display: flex;
     row-gap: 15px;
